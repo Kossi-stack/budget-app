@@ -1,0 +1,2 @@
+class JoinTableTransactionsGroup < ApplicationRecord
+end
